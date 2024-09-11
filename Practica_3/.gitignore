@@ -1,2 +1,3 @@
-./Practica_3/datos_senales_datos_parkinson_cursos
+Practica_3/datos_senales_datos_parkinson_cursos/*.log
+Practica_3\signals.mat
 touch .gitignore
